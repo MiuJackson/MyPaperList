@@ -23,10 +23,10 @@ Reading paper list
 3. **Evaluation of Text Generation: A Survey 2020-06-26**
   - 58 pages较长，正在阅读
 4. **Controllable Text Generation Should machines reflect the way humans interact in society?  2020-03**
-  - CMU一Thesis Proposal，更长，107 pages
+  - CMU一篇Thesis Proposal，更长，107 pages
 5. **A Survey of Knowledge-Enhanced Text Generation 2020-10-09**
   - 知识增强生成survey，44 pages，正在阅读。
 
 ## Paraphrase:
 ## GEC:
-## Controllabl Text Generation:
+## Controllable Text Generation:
