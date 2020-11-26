@@ -13,3 +13,20 @@ Reading paper list
 4. **Parallel Data Augmentation for Formality Style Transfer**
   - 针对正式用语和非正式用语转换的数据扩增技术： 回译（BT）、回译后的Formality discrimination、GEC数据transfer，有启发性。
   - date：2020-11-23
+## Text Generation:
+1. The Amazing World of Neural Language Generation
+  - 2020 ACL 一场tutorial的前述材料，没什么实质内容，实质内容在会议中，但视频和ppt暂时还如期公布，后面保持关注。
+  - date：2020-11-25
+2. The survey: Text generation models in deep learning
+  - 深度学习在文本生成的综述，只看了不太熟悉的2.5之后的部分，启发性一般，主要get到VAE的生成能力和GAN中leakGAN较突出，文章没有提预训练模型的生成能力。
+  - date：2020-11-26
+3. **Evaluation of Text Generation: A Survey 2020-06-26**
+  - 58 pages较长，正在阅读
+4. **Controllable Text Generation Should machines reect the way humans interact in society?  2020-03**
+  - CMU一Thesis Proposal，更长，107 pages
+5. **A Survey of Knowledge-Enhanced Text Generation 2020-10-09 **
+  - 知识增强生成survey，44 pages，正在阅读。
+
+## Paraphrase:
+## GEC:
+## Controllabl Text Generation:
