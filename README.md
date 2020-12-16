@@ -26,7 +26,8 @@ Reading paper list
   - CMU一篇Thesis Proposal，更长，107 pages
 5. **A Survey of Knowledge-Enhanced Text Generation 2020-10-09**
   - 知识增强生成survey，44 pages，正在阅读。
-
+6. Facts2Story-Controlling Text Generation by Key Facts
+  - 通过事实句引导文本生成，主要贡献点是定义事实space预测任务和loss function从而转换为text infilling problem.
 ## Paraphrase:
 ## GEC:
 ## Controllable Text Generation:
