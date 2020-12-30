@@ -28,6 +28,9 @@ Reading paper list
   - 知识增强生成survey，44 pages，正在阅读。
 6. Facts2Story-Controlling Text Generation by Key Facts
   - 通过事实句引导文本生成，主要贡献点是定义事实space预测任务和loss function从而转换为text infilling problem.
+## Meta Learning in NLP
+1. Personalizing Dialogue Agents via Meta-Learning
+  - 在persona对话数据利用meta learning学习个性特征，没有使用较难获得和定义的persona信息。
 ## Paraphrase:
 ## GEC:
 ## Controllable Text Generation:
