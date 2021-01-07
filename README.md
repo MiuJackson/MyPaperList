@@ -32,6 +32,10 @@ Reading paper list
   - 文本生成的去毒化，做了去毒数据、可控语言生成的实验。实验较全面，角度新颖，是篇佳作。可视结果：https://toxicdegeneration.allenai.org/
 8. Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection/Build it Break it Fix it for Dialogue Safety:Robustness from Adversarial Human Attack
   - 两篇增强系统辨别有毒信息能力的方式，核心是加入**人工产生对抗数据**进行迭代。
+9. EFFICIENTLY MITIGATING CLASSIFICATION BIAS VIA TRANSFER LEARNING
+  - （略读）预训练模型的分类层不放入微调，从未做到去毒
+10. **Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective**
+  - 对各种负面表达处理的survey，主要偏向世界观角度，之后如有工作可再细读，现主要skim了一遍，大致了解50%核心。包括 A survey of pre-processing techniques to improve short-text quality: a case study on hate speech detection on twitter（还不可阅读，后期关注）
 ## Meta Learning in NLP
 1. Personalizing Dialogue Agents via Meta-Learning
   - 在persona对话数据利用meta learning学习个性特征，没有使用较难获得和定义的persona信息。
