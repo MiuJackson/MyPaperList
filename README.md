@@ -38,7 +38,7 @@ Reading paper list
   - 对各种负面表达处理的survey，主要偏向世界观角度，之后如有工作可再细读，现主要skim了一遍，大致了解50%核心。包括 A survey of pre-processing techniques to improve short-text quality: a case study on hate speech detection on twitter（还不可阅读，后期关注）
 ## Representation SBERT
 1. **Pretrained Transformers for Text Ranking:BERT and Beyond**
-  - Text rank系列方法综述，主要分为有交互（BERT attention）和无交互（双塔）网络学embedding，然后做rerank/rank.
+  - Text rank系列方法综述，主要分为有交互（BERT attention）和无交互（双塔）网络学embedding，核心在效率和效果的tradeoff，然后做rerank/rank.
 ## Meta Learning in NLP
 1. Personalizing Dialogue Agents via Meta-Learning
   - 在persona对话数据利用meta learning学习个性特征，没有使用较难获得和定义的persona信息。
