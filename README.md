@@ -30,7 +30,7 @@ Reading paper list
   - 通过事实句引导文本生成，主要贡献点是定义事实space预测任务和loss function从而转换为text infilling problem.
 7. Evaluating Neural Toxic Degeneration in Language Models
   - 文本生成的去毒化，做了去毒数据、可控语言生成的实验。实验较全面，角度新颖，是篇佳作。可视结果：https://toxicdegeneration.allenai.org/
-8.Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection/Build it Break it Fix it for Dialogue Safety:Robustness from Adversarial Human Attack
+8. Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection/Build it Break it Fix it for Dialogue Safety:Robustness from Adversarial Human Attack
   - 两篇增强系统辨别有毒信息能力的方式，核心是加入**人工产生对抗数据**进行迭代。
 ## Meta Learning in NLP
 1. Personalizing Dialogue Agents via Meta-Learning
