@@ -29,7 +29,7 @@ Reading paper list
 6. Facts2Story-Controlling Text Generation by Key Facts
   - 通过事实句引导文本生成，主要贡献点是定义事实space预测任务和loss function从而转换为text infilling problem.
 7. Evaluating Neural Toxic Degeneration in Language Models
-  - 文本生成的去毒化，做了去毒数据、可控语言生成的实验。实验较全面，角度新颖，是篇佳作。
+  - 文本生成的去毒化，做了去毒数据、可控语言生成的实验。实验较全面，角度新颖，是篇佳作。可视结果：https://toxicdegeneration.allenai.org/
 ## Meta Learning in NLP
 1. Personalizing Dialogue Agents via Meta-Learning
   - 在persona对话数据利用meta learning学习个性特征，没有使用较难获得和定义的persona信息。
