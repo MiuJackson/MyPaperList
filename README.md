@@ -13,6 +13,8 @@ Reading paper list
 4. **Parallel Data Augmentation for Formality Style Transfer**
   - 针对正式用语和非正式用语转换的数据扩增技术： 回译（BT）、回译后的Formality discrimination、GEC数据transfer，有启发性。
   - date：2020-11-23
+5. **Text Style Transfer: A Review and Experiment Evaluation**
+  - 另一篇文本迁移的综述，亮点在于给了多种**可复现模型的对比**。
 ## Text Generation:
 1. The Amazing World of Neural Language Generation
   - 2020 ACL 一场tutorial的前述材料，没什么实质内容，实质内容在会议中，但视频和ppt暂时还如期公布，后面保持关注。
