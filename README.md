@@ -15,6 +15,7 @@ Reading paper list
   - date：2020-11-23
 5. **Text Style Transfer: A Review and Experiment Evaluation**
   - 另一篇文本迁移的综述，亮点在于给了多种**可复现模型的对比**。
+  - date：2021-01-11
 ## Text Generation:
 1. The Amazing World of Neural Language Generation
   - 2020 ACL 一场tutorial的前述材料，没什么实质内容，实质内容在会议中，但视频和ppt暂时还如期公布，后面保持关注。
