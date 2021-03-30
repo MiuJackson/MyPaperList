@@ -46,5 +46,9 @@ Reading paper list
 1. Personalizing Dialogue Agents via Meta-Learning
   - 在persona对话数据利用meta learning学习个性特征，没有使用较难获得和定义的persona信息。
 ## Paraphrase:
+1. Neural Syntactic Preordering for Controlled Paraphrase Generation
+  - https://paperswithcode.com/paper/neural-syntactic-preordering-for-controlled
+2. Latent Template Induction with Gumbel-CRFs
+  - 
 ## GEC:
 ## Controllable Text Generation:
