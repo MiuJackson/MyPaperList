@@ -50,5 +50,9 @@ Reading paper list
   - https://paperswithcode.com/paper/neural-syntactic-preordering-for-controlled
 2. Latent Template Induction with Gumbel-CRFs
   - 
+3. Paraphrase Generation with Latent Bag of Words
+  - 
+4. Generating Syntactically Controlled Paraphrases without Using Annotated Parallel Pairs
+5. 
 ## GEC:
 ## Controllable Text Generation:
