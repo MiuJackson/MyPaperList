@@ -42,6 +42,8 @@ Reading paper list
 ## Representation SBERT
 1. **Pretrained Transformers for Text Ranking:BERT and Beyond**
   - Text rank系列方法综述，主要分为有交互（BERT attention）和无交互（双塔）网络学embedding，核心在效率和效果的tradeoff，然后做rerank/rank.
+2. **SimCSE: Simple Contrastive Learning of Sentence Embeddings**
+  - 对比学习学习语义表示分布，无监督效果超出预期，亮点在于利于dropout构造正样本，是个很好且有前景的方向。
 ## Meta Learning in NLP
 1. Personalizing Dialogue Agents via Meta-Learning
   - 在persona对话数据利用meta learning学习个性特征，没有使用较难获得和定义的persona信息。
@@ -53,6 +55,7 @@ Reading paper list
 3. Paraphrase Generation with Latent Bag of Words
   - 
 4. Generating Syntactically Controlled Paraphrases without Using Annotated Parallel Pairs
-5. 
+5. **FELIX: Flexible Text Editing Through Tagging and Insertion**
+  - 改写新角度，改写不一定是total重写，可以在原先基础上做edit；文本编辑模型的sota。
 ## GEC:
 ## Controllable Text Generation:
