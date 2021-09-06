@@ -59,9 +59,13 @@ Reading paper list
   - 改写新角度，改写不一定是total重写，可以在原先基础上做edit；文本编辑模型的sota。
 ## CommonSense Generation:
 1. Retrieval Enhanced Model for Commonsense Generation
+  - retrieve包含相同概念的相似句，增加输入信息pretrain+finetune，提升Commonsense Generation leaderboard上效果。无模型结构和知识融合改变。
 2. KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning
+  - 略读综述blog，核心是Transformer结构融合知识图谱，用transE融合KG，结构比较复杂，有一定通用借鉴性。
 ## Prompt_based learning:
 1. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**
+  - Prompt 范式survey，比较全面，特别提供的paper比较全面:http://pretrain.nlpedia.ai/
 2. CPM-2: Large-scale Cost-effective Pre-trained Language Models
+  - En-de中文百亿模型技术报告，包含prompt-learning方式，实验效果还未达预期；全模型微调硬件成本较高（至少16张 32G V100）。单纯从语言模型角度，CPM-large（十亿级别）效果尚可，需要2张32G V100.
 ## GEC:
 ## Controllable Text Generation:
