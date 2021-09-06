@@ -57,5 +57,11 @@ Reading paper list
 4. Generating Syntactically Controlled Paraphrases without Using Annotated Parallel Pairs
 5. **FELIX: Flexible Text Editing Through Tagging and Insertion**
   - 改写新角度，改写不一定是total重写，可以在原先基础上做edit；文本编辑模型的sota。
+## CommonSense Generation:
+1. Retrieval Enhanced Model for Commonsense Generation
+2. KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning
+## Prompt_based learning:
+1. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**
+2. CPM-2: Large-scale Cost-effective Pre-trained Language Models
 ## GEC:
 ## Controllable Text Generation:
