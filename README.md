@@ -70,3 +70,5 @@ Reading paper list
 3. **The Power of Scale for Parameter-Efficient Prompt Tuning**
 ## GEC:
 ## Controllable Text Generation:
+## Casual Inference：
+1. Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond
