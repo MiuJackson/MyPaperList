@@ -68,6 +68,7 @@ Reading paper list
 2. CPM-2: Large-scale Cost-effective Pre-trained Language Models
   - En-de中文百亿模型技术报告，包含prompt-learning方式，实验效果还未达预期；全模型微调硬件成本较高（至少16张 32G V100）。单纯从语言模型角度，CPM-large（十亿级别）效果尚可，需要2张32G V100.
 3. **The Power of Scale for Parameter-Efficient Prompt Tuning**
+  -Prompt tuning的参数实验，主要针对软模板，包括prompt length，初始化，预训练目标，预训练步数等，结论是超大模型的prompt tuning可以与FT媲美。
 4. PPT: Pre-trained Prompt Tuning for Few-shot Learning
   - 将句子分类任务unify为一种prompt，进行Prompt的pretrain从而得到超过FT的效果。
 ## GEC:
