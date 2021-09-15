@@ -71,6 +71,8 @@ Reading paper list
   -Prompt tuning的参数实验，主要针对软模板，包括prompt length，初始化，预训练目标，预训练步数等，结论是超大模型的prompt tuning可以与FT媲美。
 4. PPT: Pre-trained Prompt Tuning for Few-shot Learning
   - 将句子分类任务unify为一种prompt，进行Prompt的pretrain从而得到超过FT的效果。
+## Date2Text：
+1. Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints
 ## GEC:
 ## Controllable Text Generation:
 ## Casual Inference：
