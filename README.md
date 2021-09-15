@@ -73,6 +73,7 @@ Reading paper list
   - 将句子分类任务unify为一种prompt，进行Prompt的pretrain从而得到超过FT的效果。
 ## Date2Text：
 1. Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints
+  - 增加table output embedding和text input embedding MSE loss和table和text 的optimal-transport distance 两类loss，增加tabel2text事实一致性。
 ## GEC:
 ## Controllable Text Generation:
 ## Casual Inference：
