@@ -39,6 +39,8 @@ Reading paper list
   - （略读）预训练模型的分类层不放入微调，从未做到去毒
 10. **Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective**
   - 对各种负面表达处理的survey，主要偏向世界观角度，之后如有工作可再细读，现主要skim了一遍，大致了解50%核心。包括 A survey of pre-processing techniques to improve short-text quality: a case study on hate speech detection on twitter（还不可阅读，后期关注）
+11. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  - RAG，需要阅读
 ## Representation SBERT
 1. **Pretrained Transformers for Text Ranking:BERT and Beyond**
   - Text rank系列方法综述，主要分为有交互（BERT attention）和无交互（双塔）网络学embedding，核心在效率和效果的tradeoff，然后做rerank/rank.
@@ -62,6 +64,8 @@ Reading paper list
   - retrieve包含相同概念的相似句，增加输入信息pretrain+finetune，提升Commonsense Generation leaderboard上效果。无模型结构和知识融合改变。
 2. KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning
   - 略读综述blog，核心是Transformer结构融合知识图谱，用transE融合KG，结构比较复杂，有一定通用借鉴性。
+3. KFCNet: Knowledge Filtering and Contrastive Learning Network for Generative Commonsense Reasoning
+  - 需要阅读
 ## Prompt_based learning:
 1. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**
   - Prompt 范式survey，比较全面，特别提供的paper比较全面:http://pretrain.nlpedia.ai/
